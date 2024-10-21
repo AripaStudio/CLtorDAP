@@ -1,4 +1,11 @@
 //Aripa Studio
+//V1.0.0
+//lang : D 
+//khashayar mobasheri (abolfazl)
+
+
+
+
 
 /*plus جمع
 minus منقی 
